@@ -9,6 +9,7 @@
 |---|---------|-------------|------|------|
 | 01 | **ds-module-03** | This project aims to teach you the basics of object-oriented programming in Python. The tasks are designed in a sequential manner. From creating a simple class to implementing logging and integrating with external services. | [Open](https://github.com/Lexxxi42/ds-module-03) | Python, OOP |
 | 02 | **ds-module-10** | The first project of the introductory ML course covers binary and multiclass classification, regression, and clustering.<br>Model evaluation methods and overfitting prevention techniques are also explored.<br>All practice is based on real user activity data. | [Open](https://github.com/Lexxxi42/ds-module-10) | Python, Jupyter Notebook, Scikit-learn, Pandas, Nmpy, Matplotlib |
+| 03 | **ds-module-11** | This project aims to explore advanced machine learning techniques using the scikit-learn library.<br>The tasks range from learning about regularization and hyperparameter tuning to creating ensembles and organizing code into an OOP-based pipeline structure. | [Open](https://github.com/Lexxxi42/ds-module-11) | Python, Jupyter Notebook, Scikit-learn, Pandas, Nmpy, Joblib, Tqdm |
 ## Progress
 
 ### Introduction Stage
@@ -25,4 +26,4 @@
 | 08 | ds-module-08 | 🕑 Waiting to add |
 | 09 | ds-module-09 | 🕑 Waiting to add |
 | 10 | ds-module-10 | ✅ Completed |
-| 11 | ds-module-11 | 🕑 Waiting to add |
+| 11 | ds-module-11 | ✅ Completed |
