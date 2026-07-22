@@ -7,7 +7,7 @@
 
 | # | Project | Description | Link | Stack |
 |---|---------|-------------|------|------|
-| 01 | **ds-module-03** | This project aims to teach you the basics of object-oriented programming in Python. The tasks are designed in a sequential manner. From creating a simple class to implementing logging and integrating with external services. | [Open](https://github.com/Lexxxi42/ds-module-03) | Numpy, Pandas, Seaborn, Matplotlib, Sci-kit learn |
+| 01 | **ds-module-03** | This project aims to teach you the basics of object-oriented programming in Python. The tasks are designed in a sequential manner. From creating a simple class to implementing logging and integrating with external services. | [Open](https://github.com/Lexxxi42/ds-module-03) | Python, OOP |
 
 ## Progress
 
